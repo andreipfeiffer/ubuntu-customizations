@@ -6,7 +6,7 @@
   ui = auto
 [color "branch"]
   current = green
-  local = yellow
+  local = normal
   remote = magenta
 [color "diff"]
   meta = yellow
